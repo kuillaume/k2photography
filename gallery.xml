@@ -1,0 +1,3625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collections>
+ <collection>
+  <name>T81. Metal</name>
+  <fileName>t81_metal</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-metal-01_6907.JPG</title>
+   <description></description>
+   <date>2013-03-22T17:22:31</date>
+   <full fileName="01-kag-metal-01_6907_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-metal-01_6907_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-22 17:22:31</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-Metal-01.jpg</title>
+   <description></description>
+   <date>2013-03-29T04:45:14</date>
+   <full fileName="02-kim-metal-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-metal-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-29 04:45:14</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/250 s</exifphotoexposuretime>
+    <exifphotofnumber>F9</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/256 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F9.1</exifphotoaperturevalue>
+    <exifphotofocallength>65.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-metal-02_7166.JPG</title>
+   <description></description>
+   <date>2013-03-24T19:38:50</date>
+   <full fileName="03-kag-metal-02_7166_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-metal-02_7166_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-24 19:38:50</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/8 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-Metal-02.jpg</title>
+   <description></description>
+   <date>2013-03-31T16:05:16</date>
+   <full fileName="04-kim-metal-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-metal-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 16:05:16</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-metal-03_6567.JPG</title>
+   <description></description>
+   <date>2013-03-20T19:54:01</date>
+   <full fileName="05-kag-metal-03_6567_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-metal-03_6567_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-20 19:54:01</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>11.4 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-Metal-03.jpg</title>
+   <description></description>
+   <date>2013-03-14T09:35:26</date>
+   <full fileName="06-kim-metal-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-metal-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-14 09:35:26</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>23.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-Metal-04.jpg</title>
+   <description></description>
+   <date>2013-03-31T16:01:08</date>
+   <full fileName="08-kim-metal-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-metal-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 16:01:08</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T83. Motion</name>
+  <fileName>t83_motion</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-motion-01_5522.jpg</title>
+   <description></description>
+   <date>2013-02-15T23:50:15</date>
+   <full fileName="01-kag-motion-01_5522_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-motion-01_5522_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-15 23:50:15</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>5 s</exifphotoexposuretime>
+    <exifphotofnumber>F8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>14.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-motion-01.jpg</title>
+   <description></description>
+   <date>2013-02-12T02:21:03</date>
+   <full fileName="02-kim-motion-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-motion-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-12 02:21:03</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2500 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>250</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/2656 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>146.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-motion-02_5526.jpg</title>
+   <description></description>
+   <date>2013-02-16T00:29:04</date>
+   <full fileName="03-kag-motion-02_5526_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-motion-02_5526_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-16 00:29:04</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>10 s</exifphotoexposuretime>
+    <exifphotofnumber>F9</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>13.1 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-motion-02.jpg</title>
+   <description></description>
+   <date>2013-02-12T02:15:19</date>
+   <full fileName="04-kim-motion-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-motion-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-12 02:15:19</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2500 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/2656 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>250.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-motion-03_5506.jpg</title>
+   <description></description>
+   <date>2013-02-14T23:52:09</date>
+   <full fileName="05-kag-motion-03_5506_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-motion-03_5506_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-14 23:52:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>5 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>19.6 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-motion-03.jpg</title>
+   <description></description>
+   <date>2013-02-13T09:20:16</date>
+   <full fileName="06-kim-motion-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-motion-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-13 09:20:16</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/80 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>320</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/83 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kag-motion-04_5519.jpg</title>
+   <description></description>
+   <date>2013-02-15T23:42:50</date>
+   <full fileName="07-kag-motion-04_5519_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kag-motion-04_5519_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-15 23:42:50</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>4 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>14.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-motion-04.jpg</title>
+   <description></description>
+   <date>2013-02-14T01:18:09</date>
+   <full fileName="08-kim-motion-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-motion-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-14 01:18:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/500 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/512 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>10-kim-motion-05.jpg</title>
+   <description></description>
+   <date>2013-02-14T00:19:41</date>
+   <full fileName="10-kim-motion-05_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_10-kim-motion-05_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-14 00:19:41</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/500 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/512 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>109.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T74. DEC2013A</name>
+  <fileName>t74_dec2013a</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-t74-01_13417.jpg</title>
+   <description></description>
+   <date>2013-11-24T04:45:23</date>
+   <full fileName="01-kim-t74-01_13417_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-t74-01_13417_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-24 04:45:23</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/400 s</exifphotoexposuretime>
+    <exifphotofnumber>F7.1</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/395 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F7</exifphotoaperturevalue>
+    <exifphotofocallength>250.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-t74-01_11028.JPG</title>
+   <description></description>
+   <date>2013-12-01T02:16:17</date>
+   <full fileName="02-kag-t74-01_11028_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-t74-01_11028_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-12-01 02:16:17</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2000 s</exifphotoexposuretime>
+    <exifphotofnumber>F1.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>45.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-t74-02_13423.jpg</title>
+   <description></description>
+   <date>2013-11-26T20:20:04</date>
+   <full fileName="03-kim-t74-02_13423_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-t74-02_13423_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-26 20:20:04</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/400 s</exifphotoexposuretime>
+    <exifphotofnumber>F7.1</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/395 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F7</exifphotoaperturevalue>
+    <exifphotofocallength>250.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-t74-02_10848.JPG</title>
+   <description></description>
+   <date>2013-11-23T18:09:09</date>
+   <full fileName="04-kag-t74-02_10848_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-t74-02_10848_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-23 18:09:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F2.2</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>320</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>45.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-t74-03_13439.jpg</title>
+   <description></description>
+   <date>2013-12-07T10:05:05</date>
+   <full fileName="05-kim-t74-03_13439_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-t74-03_13439_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-12-07 10:05:05</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>250.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-t74-03_11261.JPG</title>
+   <description></description>
+   <date>2013-12-04T01:54:14</date>
+   <full fileName="06-kag-t74-03_11261_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-t74-03_11261_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-12-04 01:54:14</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/4000 s</exifphotoexposuretime>
+    <exifphotofnumber>F1.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1600</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>45.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T75. Any</name>
+  <fileName>t75_any</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-any-1_10504.jpg</title>
+   <description></description>
+   <date>2013-11-13T21:02:13</date>
+   <full fileName="01-kag-any-1_10504_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-any-1_10504_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-13 21:02:13</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>43.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-november-1.jpg</title>
+   <description></description>
+   <date>2013-11-17T22:38:14</date>
+   <full fileName="02-kim-november-1_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-november-1_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-17 22:38:14</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-any-2_10529.jpg</title>
+   <description>                                                                                                                     </description>
+   <date>2013-11-15T21:20:28</date>
+   <full fileName="03-kag-any-2_10529_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-any-2_10529_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-15 21:20:28</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>3 s</exifphotoexposuretime>
+    <exifphotofnumber>F22</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>43.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-november-2.jpg</title>
+   <description></description>
+   <date>2013-11-10T01:46:37</date>
+   <full fileName="04-kim-november-2_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-november-2_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-10 01:46:37</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>2000</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>24.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-any-3_10282.jpg</title>
+   <description></description>
+   <date>2013-11-09T16:44:36</date>
+   <full fileName="05-kag-any-3_10282_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-any-3_10282_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-09 16:44:36</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F1.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>17.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-november-3.jpg</title>
+   <description></description>
+   <date>2013-11-17T22:45:48</date>
+   <full fileName="06-kim-november-3_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-november-3_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-17 22:45:48</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-november-4.jpg</title>
+   <description></description>
+   <date>2013-11-10T01:40:17</date>
+   <full fileName="08-kim-november-4_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-november-4_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-10 01:40:17</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/40 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>2000</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/41 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>28.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T78. Edible</name>
+  <fileName>t78_edible</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-Edible-1.JPG</title>
+   <description></description>
+   <date>2013-04-14T04:33:44</date>
+   <full fileName="01-kim-edible-1_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-edible-1_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-14 04:33:44</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-edible-1_7106.JPG</title>
+   <description></description>
+   <date>2013-03-23T16:46:51</date>
+   <full fileName="02-kag-edible-1_7106_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-edible-1_7106_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-23 16:46:51</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>360</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>21.9 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-Edible-2.JPG</title>
+   <description></description>
+   <date>2013-04-14T04:47:12</date>
+   <full fileName="03-kim-edible-2_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-edible-2_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-14 04:47:12</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>320</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-edible-1_7208.JPG</title>
+   <description></description>
+   <date>2013-04-13T19:47:46</date>
+   <full fileName="04-kag-edible-1_7208_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-edible-1_7208_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-13 19:47:46</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>19.6 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-Edible-3.JPG</title>
+   <description></description>
+   <date>2013-04-12T08:44:44</date>
+   <full fileName="05-kim-edible-3_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-edible-3_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-12 08:44:44</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/20 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/21 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>45.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-edible-3_7208.JPG</title>
+   <description></description>
+   <date>2013-04-14T19:57:15</date>
+   <full fileName="06-kag-edible-3_7208_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-edible-3_7208_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-14 19:57:15</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>220</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>15.7 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-Edible-4.JPG</title>
+   <description></description>
+   <date>2013-04-12T08:38:32</date>
+   <full fileName="07-kim-edible-4_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-edible-4_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-12 08:38:32</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5</exifphotoaperturevalue>
+    <exifphotofocallength>45.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kim-Edible-5.jpg</title>
+   <description></description>
+   <date>2013-04-14T08:56:39</date>
+   <full fileName="09-kim-edible-5_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kim-edible-5_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-04-14 08:56:39</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/3 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/3 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T84. Blue</name>
+  <fileName>t84_blue</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-Blue-1.JPG</title>
+   <description></description>
+   <date>2013-02-03T05:05:08</date>
+   <full fileName="01-kim-blue-1_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-blue-1_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-03 05:05:08</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/4 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/4 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>53.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-blue-chop-dq_0817.jpg</title>
+   <description></description>
+   <date>2013-11-03T17:38:53</date>
+   <full fileName="02-kag-blue-chop-dq_0817_jpg.jpeg" height="795" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-blue-chop-dq_0817_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-Blue-2.JPG</title>
+   <description></description>
+   <date>2013-01-31T08:45:04</date>
+   <full fileName="03-kim-blue-2_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-blue-2_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-31 08:45:04</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/128 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-blue-01_2133.jpg</title>
+   <description></description>
+   <date>2012-12-22T17:24:58</date>
+   <full fileName="04-kag-blue-01_2133_jpg.jpeg" height="1200" width="800"/>
+   <thumbnail fileName="thumb_04-kag-blue-01_2133_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-22 17:24:58</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/13 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-Blue-3.JPG</title>
+   <description></description>
+   <date>2013-02-03T01:20:08</date>
+   <full fileName="05-kim-blue-3_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-blue-3_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-03 01:20:08</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/40 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/41 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-blue-02_5348.jpg</title>
+   <description></description>
+   <date>2013-01-30T15:40:43</date>
+   <full fileName="06-kag-blue-02_5348_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-blue-02_5348_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-30 15:40:43</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>15.1 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-Blue-4.JPG</title>
+   <description></description>
+   <date>2013-02-03T02:00:23</date>
+   <full fileName="07-kim-blue-4_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-blue-4_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-03 02:00:23</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kag-blue-03_5422.jpg</title>
+   <description></description>
+   <date>2013-01-31T21:03:24</date>
+   <full fileName="08-kag-blue-03_5422_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_08-kag-blue-03_5422_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-31 21:03:24</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1600</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kim-Blue-Cropped.jpg</title>
+   <description></description>
+   <date>2013-02-03T18:48:38</date>
+   <full fileName="09-kim-blue-cropped_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kim-blue-cropped_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-03 18:48:38</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T85. Glass</name>
+  <fileName>t85_glass</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-glass-01_5051.jpg</title>
+   <description></description>
+   <date>2013-01-23T15:40:57</date>
+   <full fileName="01-kag-glass-01_5051_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-glass-01_5051_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-23 15:40:57</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/160 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.2</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>16.3 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-glass-01.jpg</title>
+   <description></description>
+   <date>2013-01-27T04:25:08</date>
+   <full fileName="02-kim-glass-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-glass-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-27 04:25:08</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/80 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>320</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/83 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5</exifphotoaperturevalue>
+    <exifphotofocallength>41.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-glass-02_4981.jpg</title>
+   <description></description>
+   <date>2013-01-23T14:47:35</date>
+   <full fileName="03-kag-glass-02_4981_jpg.jpeg" height="903" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-glass-02_4981_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-23 14:47:35</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/20 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-glass-02.jpg</title>
+   <description></description>
+   <date>2013-01-27T08:15:39</date>
+   <full fileName="04-kim-glass-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-glass-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-27 08:15:39</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/49 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-glass-03_4991.jpg</title>
+   <description></description>
+   <date>2013-01-23T14:55:43</date>
+   <full fileName="05-kag-glass-03_4991_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-glass-03_4991_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-23 14:55:43</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/160 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-glass-03.jpg</title>
+   <description></description>
+   <date>2013-01-27T07:02:18</date>
+   <full fileName="06-kim-glass-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-glass-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-27 07:02:18</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kag-glass-04_5020.jpg</title>
+   <description></description>
+   <date>2013-01-23T15:12:15</date>
+   <full fileName="07-kag-glass-04_5020_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kag-glass-04_5020_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-23 15:12:15</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>280</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>17.5 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-glass-04.jpg</title>
+   <description></description>
+   <date>2013-01-27T05:00:29</date>
+   <full fileName="08-kim-glass-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-glass-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-27 05:00:29</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/6 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/6 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kag-glass-05_5074-chop.jpg</title>
+   <description></description>
+   <date>2013-01-23T16:24:18</date>
+   <full fileName="09-kag-glass-05_5074-chop_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kag-glass-05_5074-chop_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-23 16:24:18</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/6 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>22.7 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T82. Shadows</name>
+  <fileName>t82_shadows</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-shadow-01.JPG</title>
+   <description></description>
+   <date>2013-03-03T05:34:09</date>
+   <full fileName="01-kim-shadow-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-shadow-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-03 05:34:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/20 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/21 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-shadows-01_5593.JPG</title>
+   <description></description>
+   <date>2013-02-22T02:19:46</date>
+   <full fileName="02-kag-shadows-01_5593_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-shadows-01_5593_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-22 02:19:46</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-shadow-02.JPG</title>
+   <description></description>
+   <date>2013-03-03T08:12:37</date>
+   <full fileName="03-kim-shadow-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-shadow-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-03 08:12:37</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>48.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-shadows-02_5767.JPG</title>
+   <description></description>
+   <date>2013-02-27T04:47:17</date>
+   <full fileName="04-kag-shadows-02_5767_jpg.jpeg" height="797" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-shadows-02_5767_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 04:47:17</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1600</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-shadow-03.JPG</title>
+   <description></description>
+   <date>2013-03-03T07:43:48</date>
+   <full fileName="05-kim-shadow-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-shadow-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-03 07:43:48</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>79.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-shadows-03_5757.JPG</title>
+   <description></description>
+   <date>2013-02-27T04:39:15</date>
+   <full fileName="06-kag-shadows-03_5757_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-shadows-03_5757_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 04:39:15</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/3 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>21.1 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-shadow-04.JPG</title>
+   <description></description>
+   <date>2013-03-02T14:49:09</date>
+   <full fileName="07-kim-shadow-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-shadow-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-02 14:49:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>640</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/32 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kag-shadows-04_5753.JPG</title>
+   <description></description>
+   <date>2013-02-27T04:36:02</date>
+   <full fileName="08-kag-shadows-04_5753_jpg.jpeg" height="1200" width="800"/>
+   <thumbnail fileName="thumb_08-kag-shadows-04_5753_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 04:36:02</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/10 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kim-shadow-05.jpg</title>
+   <description></description>
+   <date>2013-03-02T15:12:24</date>
+   <full fileName="09-kim-shadow-05_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kim-shadow-05_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-02 15:12:24</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/250 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/256 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>10-kag-shadows-05_5790.JPG</title>
+   <description></description>
+   <date>2013-02-27T05:22:47</date>
+   <full fileName="10-kag-shadows-05_5790_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_10-kag-shadows-05_5790_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 05:22:47</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/13 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>96-kag-shadows-96_5747.JPG</title>
+   <description></description>
+   <date>2013-02-27T04:32:31</date>
+   <full fileName="96-kag-shadows-96_5747_jpg.jpeg" height="798" width="1200"/>
+   <thumbnail fileName="thumb_96-kag-shadows-96_5747_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 04:32:31</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/15 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>98-kag-shadows-98_5748.JPG</title>
+   <description></description>
+   <date>2013-02-27T04:32:37</date>
+   <full fileName="98-kag-shadows-98_5748_jpg.jpeg" height="798" width="1200"/>
+   <thumbnail fileName="thumb_98-kag-shadows-98_5748_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-02-27 04:32:37</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1600</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T77. Revisit-1</name>
+  <fileName>t77_revisit-1</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-revisit1-01_7310.JPG</title>
+   <description></description>
+   <date>2013-05-12T19:46:29</date>
+   <full fileName="01-kag-revisit1-01_7310_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-revisit1-01_7310_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-05-12 19:46:29</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/320 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-revisit1-02_7306.JPG</title>
+   <description></description>
+   <date>2013-05-12T19:44:20</date>
+   <full fileName="03-kag-revisit1-02_7306_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-revisit1-02_7306_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-05-12 19:44:20</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/1000 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>18.2 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-revisit1-03_7337.JPG</title>
+   <description></description>
+   <date>2013-05-12T20:05:33</date>
+   <full fileName="05-kag-revisit1-03_7337_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-revisit1-03_7337_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-05-12 20:05:33</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/320 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kag-revisit1-04_7263.JPG</title>
+   <description></description>
+   <date>2013-05-05T19:27:50</date>
+   <full fileName="07-kag-revisit1-04_7263_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kag-revisit1-04_7263_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-05-05 19:27:50</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/250 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.3</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>160</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>24.4 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T86. Time</name>
+  <fileName>t86_time</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-time-01_ Taste_of_Time.jpg</title>
+   <description></description>
+   <date>2013-01-20T08:48:00</date>
+   <full fileName="01-kim-time-01_taste_of_time_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-time-01_taste_of_time_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-20 08:48:00</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-time-01_4871.JPG</title>
+   <description></description>
+   <date>2013-01-17T22:11:08</date>
+   <full fileName="02-kag-time-01_4871_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-time-01_4871_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-17 22:11:08</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>4 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.3</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>320</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>25.9 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-time-02_Test_of_Time.jpg</title>
+   <description></description>
+   <date>2013-01-19T01:16:12</date>
+   <full fileName="03-kim-time-02_test_of_time_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-time-02_test_of_time_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-19 01:16:12</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/128 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-time-02_4856.JPG</title>
+   <description></description>
+   <date>2013-01-17T20:40:53</date>
+   <full fileName="04-kag-time-02_4856_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-time-02_4856_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-17 20:40:53</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>3 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.9 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-time-03_Guinness_Time.jpg</title>
+   <description></description>
+   <date>2013-01-19T01:42:02</date>
+   <full fileName="05-kim-time-03_guinness_time_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-time-03_guinness_time_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-19 01:42:02</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2500 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1250</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/2656 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-time-03_4879.JPG</title>
+   <description></description>
+   <date>2013-01-17T22:30:06</date>
+   <full fileName="06-kag-time-03_4879_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-time-03_4879_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-17 22:30:06</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-time-04_Four_Twenty.jpg</title>
+   <description></description>
+   <date>2013-01-20T08:19:34</date>
+   <full fileName="07-kim-time-04_four_twenty_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-time-04_four_twenty_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-20 08:19:34</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T76. Old</name>
+  <fileName>t76_old</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-01-Old Leaves 1.jpg</title>
+   <description></description>
+   <date>2013-10-14T00:50:42</date>
+   <full fileName="01-kim-01-old_leaves_1_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-01-old_leaves_1_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-14 00:50:42</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/640 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>125</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/664 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-01-KDC10049.c.JPG</title>
+   <description></description>
+   <date>2013-11-02T22:16:47</date>
+   <full fileName="02-kag-01-kdc10049_c_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-01-kdc10049_c_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-02 22:16:47</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>2 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.7</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>37.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-02-Older Tree 2.jpg</title>
+   <description></description>
+   <date>2013-10-14T00:52:37</date>
+   <full fileName="03-kim-02-older_tree_2_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-02-older_tree_2_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-14 00:52:37</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/1600 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1250</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/1579 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>171.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-02-KDC10010.c.JPG</title>
+   <description></description>
+   <date>2013-11-03T11:52:08</date>
+   <full fileName="04-kag-02-kdc10010_c_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-02-kdc10010_c_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-11-03 11:52:08</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/4000 s</exifphotoexposuretime>
+    <exifphotofnumber>F1.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>17.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-03-Old Bldg 3.jpg</title>
+   <description></description>
+   <date>2013-11-03T20:11:09</date>
+   <full fileName="05-kim-03-old_bldg_3_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-03-old_bldg_3_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-03-KDC10052.c.JPG</title>
+   <description></description>
+   <date>2013-10-23T22:48:54</date>
+   <full fileName="06-kag-03-kdc10052_c_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-03-kdc10052_c_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-23 22:48:54</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F6.3</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>5000</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>50.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-04-Old Tree 4.jpg</title>
+   <description></description>
+   <date>2013-10-13T22:52:21</date>
+   <full fileName="07-kim-04-old_tree_4_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-04-old_tree_4_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-13 22:52:21</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/25 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/25 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5</exifphotoaperturevalue>
+    <exifphotofocallength>146.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kag-04-PA190005.c.JPG</title>
+   <description></description>
+   <date>2013-10-19T11:04:06</date>
+   <full fileName="08-kag-04-pa190005_c_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kag-04-pa190005_c_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-19 11:04:06</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/30 s</exifphotoexposuretime>
+    <exifphotofnumber>F1.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>17.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kim-05-Old Church 5.jpg</title>
+   <description></description>
+   <date>2013-11-03T20:11:15</date>
+   <full fileName="09-kim-05-old_church_5_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kim-05-old_church_5_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>10-kag-05-PA200158.c.JPG</title>
+   <description></description>
+   <date>2013-10-20T17:43:27</date>
+   <full fileName="10-kag-05-pa200158_c_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_10-kag-05-pa200158_c_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>OLYMPUS IMAGING CORP.  </exifimagemake>
+    <exifimagemodel>E-M5            </exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>350</exifimagexresolution>
+    <exifimageyresolution>350</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-10-20 17:43:27</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/125 s</exifphotoexposuretime>
+    <exifphotofnumber>F7.1</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>43.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T80. Decay</name>
+  <fileName>t80_decay</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-decay-01_7084.JPG</title>
+   <description></description>
+   <date>2013-03-23T16:39:25</date>
+   <full fileName="01-kag-decay-01_7084_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-decay-01_7084_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-23 16:39:25</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-Decay-01.jpg</title>
+   <description></description>
+   <date>2013-03-29T04:27:12</date>
+   <full fileName="02-kim-decay-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-decay-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-29 04:27:12</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/80 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/83 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-decay-02_6420.JPG</title>
+   <description></description>
+   <date>2013-03-18T23:12:09</date>
+   <full fileName="03-kag-decay-02_6420_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-decay-02_6420_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-18 23:12:09</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/2 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-Decay-02.jpg</title>
+   <description></description>
+   <date>2013-03-31T15:26:56</date>
+   <full fileName="04-kim-decay-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-decay-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 15:26:56</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-decay-03_6713.JPG</title>
+   <description></description>
+   <date>2013-03-22T10:08:48</date>
+   <full fileName="05-kag-decay-03_6713_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-decay-03_6713_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-22 10:08:48</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/500 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.7 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-Decay-03.jpg</title>
+   <description></description>
+   <date>2013-03-31T15:27:24</date>
+   <full fileName="06-kim-decay-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-decay-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 15:27:24</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kag-decay-04_7066.JPG</title>
+   <description></description>
+   <date>2013-03-23T16:35:23</date>
+   <full fileName="07-kag-decay-04_7066_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kag-decay-04_7066_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-23 16:35:23</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/160 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-Decay-04.jpg</title>
+   <description></description>
+   <date>2013-03-31T15:27:40</date>
+   <full fileName="08-kim-decay-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-decay-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 15:27:40</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T87. Infrastructure</name>
+  <fileName>t87_infrastructure</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kag-infrastructure-01.jpg</title>
+   <description></description>
+   <date>2013-01-10T12:53:36</date>
+   <full fileName="01-kag-infrastructure-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kag-infrastructure-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-10 12:53:36</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/80 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.2</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>57.2 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kim-infrastructure-01.jpg</title>
+   <description></description>
+   <date>2013-01-12T00:43:03</date>
+   <full fileName="02-kim-infrastructure-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kim-infrastructure-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-12 00:43:03</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/160 s</exifphotoexposuretime>
+    <exifphotofnumber>F8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/166 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F8</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kag-infrastructure-02.jpg</title>
+   <description></description>
+   <date>2013-01-10T12:54:39</date>
+   <full fileName="03-kag-infrastructure-02_jpg.jpeg" height="797" width="1200"/>
+   <thumbnail fileName="thumb_03-kag-infrastructure-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-10 12:54:39</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.2</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>57.2 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kim-infrastructure-02.jpg</title>
+   <description></description>
+   <date>2013-01-12T00:09:25</date>
+   <full fileName="04-kim-infrastructure-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kim-infrastructure-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-12 00:09:25</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/80 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/83 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>47.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kag-infrastructure-03.jpg</title>
+   <description></description>
+   <date>2013-01-10T13:57:48</date>
+   <full fileName="05-kag-infrastructure-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kag-infrastructure-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-10 13:57:48</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/400 s</exifphotoexposuretime>
+    <exifphotofnumber>F4</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>13.1 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kim-infrastructure-03.jpg</title>
+   <description></description>
+   <date>2013-01-12T00:49:32</date>
+   <full fileName="06-kim-infrastructure-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kim-infrastructure-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-12 00:49:32</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F6.3</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/99 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F6.4</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kag-infrastructure-04.jpg</title>
+   <description></description>
+   <date>2013-11-03T17:43:23</date>
+   <full fileName="07-kag-infrastructure-04_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_07-kag-infrastructure-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>08-kim-infrastructure-04.jpg</title>
+   <description></description>
+   <date>2013-01-09T00:27:22</date>
+   <full fileName="08-kim-infrastructure-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_08-kim-infrastructure-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-09 00:27:22</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>1000</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/49 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>09-kim-infrastructure-05.jpg</title>
+   <description></description>
+   <date>2013-01-12T00:23:27</date>
+   <full fileName="09-kim-infrastructure-05_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_09-kim-infrastructure-05_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-12 00:23:27</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/160 s</exifphotoexposuretime>
+    <exifphotofnumber>F7.1</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/166 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F7</exifphotoaperturevalue>
+    <exifphotofocallength>33.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>10-kag-infrastructure-05.jpg</title>
+   <description></description>
+   <date>2013-01-07T21:24:46</date>
+   <full fileName="10-kag-infrastructure-05_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_10-kag-infrastructure-05_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-07 21:24:46</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/4 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>500</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>11-kag-infrastructure-06.jpg</title>
+   <description></description>
+   <date>2013-01-07T21:46:29</date>
+   <full fileName="11-kag-infrastructure-06_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_11-kag-infrastructure-06_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-07 21:46:29</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T89. Coffee</name>
+  <fileName>t89_coffee</fileName>
+  <comment></comment>
+  <image>
+   <title>1-kag-coffee-01-2751.jpg</title>
+   <description></description>
+   <date>2012-12-27T19:59:52</date>
+   <full fileName="1-kag-coffee-01-2751_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_1-kag-coffee-01-2751_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-27 19:59:52</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>2-kim-coffee-01.jpg</title>
+   <description></description>
+   <date>2012-12-24T05:59:41</date>
+   <full fileName="2-kim-coffee-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_2-kim-coffee-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-24 05:59:41</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>3-kim-coffee-02.jpg</title>
+   <description></description>
+   <date>2012-12-28T09:26:29</date>
+   <full fileName="3-kim-coffee-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_3-kim-coffee-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-28 09:26:29</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5</exifphotoaperturevalue>
+    <exifphotofocallength>40.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>4-kim-coffee-03.jpg</title>
+   <description></description>
+   <date>2012-12-28T10:02:51</date>
+   <full fileName="4-kim-coffee-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_4-kim-coffee-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-28 10:02:51</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/100 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/99 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>kag-coffee-setup-01.jpg</title>
+   <description></description>
+   <date>2012-12-27T20:07:46</date>
+   <full fileName="kag-coffee-setup-01_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_kag-coffee-setup-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-27 20:07:46</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/10 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>kag-coffee-setup-02.jpg</title>
+   <description></description>
+   <date>2012-12-27T20:10:15</date>
+   <full fileName="kag-coffee-setup-02_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_kag-coffee-setup-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-27 20:10:15</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/15 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>2800</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>10.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T79. Weather</name>
+  <fileName>t79_weather</fileName>
+  <comment></comment>
+  <image>
+   <title>01-kim-Winter Weather-01.jpg</title>
+   <description></description>
+   <date>2013-03-31T12:58:12</date>
+   <full fileName="01-kim-winter_weather-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_01-kim-winter_weather-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 12:58:12</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>02-kag-weather-01_6430.JPG</title>
+   <description></description>
+   <date>2013-03-18T23:19:45</date>
+   <full fileName="02-kag-weather-01_6430_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_02-kag-weather-01_6430_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-18 23:19:45</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>3 s</exifphotoexposuretime>
+    <exifphotofnumber>F8</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>15.7 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>03-kim-Winter Weather-02.jpg</title>
+   <description></description>
+   <date>2013-03-31T12:47:48</date>
+   <full fileName="03-kim-winter_weather-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_03-kim-winter_weather-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 12:47:48</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>04-kag-weather-02_5239.JPG</title>
+   <description></description>
+   <date>2013-01-25T16:39:25</date>
+   <full fileName="04-kag-weather-02_5239_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_04-kag-weather-02_5239_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-25 16:39:25</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/250 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>280</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>110.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>05-kim-Winter Weather-03.jpg</title>
+   <description></description>
+   <date>2013-03-02T05:46:04</date>
+   <full fileName="05-kim-winter_weather-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_05-kim-winter_weather-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-02 05:46:04</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/640 s</exifphotoexposuretime>
+    <exifphotofnumber>F10</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/664 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F9.9</exifphotoaperturevalue>
+    <exifphotofocallength>154.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>06-kag-weather-03_6108.JPG</title>
+   <description></description>
+   <date>2013-03-17T15:28:07</date>
+   <full fileName="06-kag-weather-03_6108_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_06-kag-weather-03_6108_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-17 15:28:07</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/6 s</exifphotoexposuretime>
+    <exifphotofnumber>F16</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>100</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>17.5 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>07-kim-Winter Weather-04.jpg</title>
+   <description></description>
+   <date>2013-03-31T12:52:28</date>
+   <full fileName="07-kim-winter_weather-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_07-kim-winter_weather-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-03-31 12:52:28</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T88. Ice</name>
+  <fileName>t88_ice</fileName>
+  <comment></comment>
+  <image>
+   <title>1-kim-ice-01.jpg</title>
+   <description></description>
+   <date>2013-01-04T10:34:13</date>
+   <full fileName="1-kim-ice-01_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_1-kim-ice-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-04 10:34:13</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/49 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>55.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>2-kag-ice-01-3578.jpg</title>
+   <description></description>
+   <date>2013-01-03T15:53:51</date>
+   <full fileName="2-kag-ice-01-3578_jpg.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_2-kag-ice-01-3578_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>NIKON CORPORATION</exifimagemake>
+    <exifimagemodel>NIKON 1 J1</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>300</exifimagexresolution>
+    <exifimageyresolution>300</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-03 15:53:51</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/25 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>30.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>3-kim-ice-02.jpg</title>
+   <description></description>
+   <date>2013-01-04T10:59:45</date>
+   <full fileName="3-kim-ice-02_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_3-kim-ice-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-04 10:59:45</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/49 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>24.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>4-kim-ice-03.jpg</title>
+   <description></description>
+   <date>2013-01-04T09:59:12</date>
+   <full fileName="4-kim-ice-03_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_4-kim-ice-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-04 09:59:12</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/50 s</exifphotoexposuretime>
+    <exifphotofnumber>F5.6</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/49 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5.7</exifphotoaperturevalue>
+    <exifphotofocallength>35.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>5-kim-ice-04.jpg</title>
+   <description></description>
+   <date>2013-01-02T07:54:42</date>
+   <full fileName="5-kim-ice-04_jpg.jpeg" height="800" width="1200"/>
+   <thumbnail fileName="thumb_5-kim-ice-04_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2013-01-02 07:54:42</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/25 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>3200</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/25 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+ <collection>
+  <name>T90. Tree</name>
+  <fileName>t90_tree</fileName>
+  <comment></comment>
+  <image>
+   <title>1-kim-tree-01.jpg</title>
+   <description></description>
+   <date>2012-12-17T06:39:56</date>
+   <full fileName="1-kim-tree-01_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_1-kim-tree-01_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-17 06:39:56</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F4.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F4.6</exifphotoaperturevalue>
+    <exifphotofocallength>35.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>2-kag-tree-01.png</title>
+   <description></description>
+   <date>2013-11-03T17:44:32</date>
+   <full fileName="2-kag-tree-01_png.jpeg" height="1200" width="803"/>
+   <thumbnail fileName="thumb_2-kag-tree-01_png.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>3-kag-tree-02.png</title>
+   <description></description>
+   <date>2013-11-03T17:44:33</date>
+   <full fileName="3-kag-tree-02_png.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_3-kag-tree-02_png.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>4-kim-tree-02.jpg</title>
+   <description></description>
+   <date>2012-12-17T06:43:02</date>
+   <full fileName="4-kim-tree-02_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_4-kim-tree-02_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-17 06:43:02</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>2 s</exifphotoexposuretime>
+    <exifphotofnumber>F3.5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>2 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F3.5</exifphotoaperturevalue>
+    <exifphotofocallength>18.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>5-kag-tree-03.png</title>
+   <description></description>
+   <date>2013-11-03T17:44:35</date>
+   <full fileName="5-kag-tree-03_png.jpeg" height="803" width="1200"/>
+   <thumbnail fileName="thumb_5-kag-tree-03_png.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>unavailable</exifimagemake>
+    <exifimagemodel>unavailable</exifimagemodel>
+    <exifimageorientation>unavailable</exifimageorientation>
+    <exifimagexresolution>unavailable</exifimagexresolution>
+    <exifimageyresolution>unavailable</exifimageyresolution>
+    <exifimageresolutionunit>unavailable</exifimageresolutionunit>
+    <exifimagedatetime>unavailable</exifimagedatetime>
+    <exifimageycbcrpositioning>unavailable</exifimageycbcrpositioning>
+    <exifphotoexposuretime>unavailable</exifphotoexposuretime>
+    <exifphotofnumber>unavailable</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>unavailable</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>unavailable</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>unavailable</exifphotoaperturevalue>
+    <exifphotofocallength>unavailable</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+  <image>
+   <title>6-kim-tree-03.jpg</title>
+   <description></description>
+   <date>2012-12-17T06:34:43</date>
+   <full fileName="6-kim-tree-03_jpg.jpeg" height="799" width="1200"/>
+   <thumbnail fileName="thumb_6-kim-tree-03_jpg.png" height="180" width="180"/>
+   <exif>
+    <exifimagemake>Canon</exifimagemake>
+    <exifimagemodel>Canon EOS REBEL T3i</exifimagemodel>
+    <exifimageorientation>top, left</exifimageorientation>
+    <exifimagexresolution>72</exifimagexresolution>
+    <exifimageyresolution>72</exifimageyresolution>
+    <exifimageresolutionunit>inch</exifimageresolutionunit>
+    <exifimagedatetime>2012-12-17 06:34:43</exifimagedatetime>
+    <exifimageycbcrpositioning>Co-sited</exifimageycbcrpositioning>
+    <exifphotoexposuretime>1/60 s</exifphotoexposuretime>
+    <exifphotofnumber>F5</exifphotofnumber>
+    <exifphotoexposureprogram>unavailable</exifphotoexposureprogram>
+    <exifphotoisospeedratings>400</exifphotoisospeedratings>
+    <exifphotoshutterspeedvalue>1/64 s</exifphotoshutterspeedvalue>
+    <exifphotoaperturevalue>F5</exifphotoaperturevalue>
+    <exifphotofocallength>44.0 mm</exifphotofocallength>
+    <exifgpslatitude>unavailable</exifgpslatitude>
+    <exifgpslongitude>unavailable</exifgpslongitude>
+    <exifgpsaltitude>unavailable</exifgpsaltitude>
+   </exif>
+  </image>
+ </collection>
+</collections>
